@@ -16,6 +16,8 @@ E-mail: murilo.ribeiro2709@gmail.com
 
 [![Estatísticas do GitHub de Murilo](https://github-readme-stats.vercel.app/api?username=MuriloRibeiro01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/MuriloRibeiro01)[![Top Linguagens de Murilo](https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloRibeiro01&layout=compact&langs_count=7&theme=dracula)](https://github.com/MuriloRibeiro01)
 
+[![Card do Gerenciador de Tarefas](https://github-readme-stats.vercel.app/api/pin/?username=MuriloRibeiro01&repo=GerenciadorDeTarefas&theme=dracula)](https://github.com/MuriloRibeiro01/GerenciadorDeTarefas)
+
 
 
 <!--
