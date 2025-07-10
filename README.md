@@ -15,21 +15,32 @@ Este GitHub é o meu diário de bordo digital, onde documento cada passo da minh
 E-mail: murilo.ribeiro2709@gmail.com
 
 <table align="center">
-  <tr>
-    <td align="center">
+  <tr align="center">
+    <td>
       <a href="https://github.com/MuriloRibeiro01">
         <img src="https://github-readme-stats.vercel.app/api?username=MuriloRibeiro01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Murilo">
       </a>
     </td>
-    <td align="center">
+    <td>
       <a href="https://github.com/MuriloRibeiro01">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloRibeiro01&layout=compact&langs_count=7&theme=dracula" alt="Top Linguagens de Murilo">
       </a>
     </td>
   </tr>
+  
+  <tr align="center">
+    <td>
+      <a href="https://github.com/MuriloRibeiro01/GerenciadorDeTarefas">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuriloRibeiro01&repo=GerenciadorDeTarefas&theme=dracula" alt="Card do Repositório Gerenciador de Tarefas">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/MuriloRibeiro01/SistemaProcessamentoTransacoes">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuriloRibeiro01&repo=SistemaProcessamentoTransacoes&theme=dracula" alt="Card do Repositório Sistema de Processamento de Transações">
+      </a>
+    </td>
+  </tr>
 </table>
-
-[![Card do Gerenciador de Tarefas](https://github-readme-stats.vercel.app/api/pin/?username=MuriloRibeiro01&repo=GerenciadorDeTarefas&theme=dracula)](https://github.com/MuriloRibeiro01/GerenciadorDeTarefas)
 
 
 
