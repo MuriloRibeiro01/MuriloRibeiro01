@@ -14,29 +14,29 @@ Este GitHub é o meu diário de bordo digital, onde documento cada passo da minh
 
 E-mail: murilo.ribeiro2709@gmail.com
 
-<table align="center">
+<table align="center" style="width: 80%;">
   <tr align="center">
-    <td>
+    <td width="50%">
       <a href="https://github.com/MuriloRibeiro01">
-        <img src="https://github-readme-stats.vercel.app/api?username=MuriloRibeiro01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Murilo">
+        <img src="https://github-readme-stats.vercel.app/api?username=MuriloRibeiro01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Murilo" style="width: 100%;">
       </a>
     </td>
-    <td>
+    <td width="50%">
       <a href="https://github.com/MuriloRibeiro01">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloRibeiro01&layout=compact&langs_count=7&theme=dracula" alt="Top Linguagens de Murilo">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloRibeiro01&layout=compact&langs_count=7&theme=dracula" alt="Top Linguagens de Murilo" style="width: 100%;">
       </a>
     </td>
   </tr>
-  
+
   <tr align="center">
     <td>
       <a href="https://github.com/MuriloRibeiro01/GerenciadorDeTarefas">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuriloRibeiro01&repo=GerenciadorDeTarefas&theme=dracula" alt="Card do Repositório Gerenciador de Tarefas">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuriloRibeiro01&repo=GerenciadorDeTarefas&theme=dracula" alt="Card do Repositório Gerenciador de Tarefas" style="width: 100%;">
       </a>
     </td>
     <td>
       <a href="https://github.com/MuriloRibeiro01/SistemaProcessamentoTransacoes">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuriloRibeiro01&repo=SistemaProcessamentoTransacoes&theme=dracula" alt="Card do Repositório Sistema de Processamento de Transações">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuriloRibeiro01&repo=SistemaProcessamentoTransacoes&theme=dracula" alt="Card do Repositório Sistema de Processamento de Transações" style="width: 100%;">
       </a>
     </td>
   </tr>
