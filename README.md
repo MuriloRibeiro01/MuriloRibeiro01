@@ -14,7 +14,20 @@ Este GitHub é o meu diário de bordo digital, onde documento cada passo da minh
 
 E-mail: murilo.ribeiro2709@gmail.com
 
-[![Estatísticas do GitHub de Murilo](https://github-readme-stats.vercel.app/api?username=MuriloRibeiro01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/MuriloRibeiro01)[![Top Linguagens de Murilo](https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloRibeiro01&layout=compact&langs_count=7&theme=dracula)](https://github.com/MuriloRibeiro01)
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/MuriloRibeiro01">
+        <img src="https://github-readme-stats.vercel.app/api?username=MuriloRibeiro01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Murilo">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MuriloRibeiro01">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloRibeiro01&layout=compact&langs_count=7&theme=dracula" alt="Top Linguagens de Murilo">
+      </a>
+    </td>
+  </tr>
+</table>
 
 [![Card do Gerenciador de Tarefas](https://github-readme-stats.vercel.app/api/pin/?username=MuriloRibeiro01&repo=GerenciadorDeTarefas&theme=dracula)](https://github.com/MuriloRibeiro01/GerenciadorDeTarefas)
 
