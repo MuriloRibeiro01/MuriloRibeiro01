@@ -12,6 +12,8 @@ Este GitHub é o meu diário de bordo digital, onde documento cada passo da minh
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-ribeiro-da-silveira-255774264) | [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=gmail&logoColor=white)](mailto:murilo.ribeiro2709@gmail.com)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MuriloRibeiro01&theme=dracula&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
+
 <table align="center" style="width: 80%;">
   <tr align="center">
     <td width="50%">
