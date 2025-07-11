@@ -10,9 +10,7 @@ Este GitHub é o meu diário de bordo digital, onde documento cada passo da minh
 
 🚀 Vamos trocar uma ideia?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-ribeiro-da-silveira-255774264)
-
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=gmail&logoColor=white)](mailto:murilo.ribeiro2709@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-ribeiro-da-silveira-255774264)[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=gmail&logoColor=white)](mailto:murilo.ribeiro2709@gmail.com)
 
 <table align="center" style="width: 80%;">
   <tr align="center">
