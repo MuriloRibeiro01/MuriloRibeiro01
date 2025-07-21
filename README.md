@@ -34,8 +34,8 @@ Este GitHub é o meu diário de bordo digital, onde documento cada passo da minh
 
   <tr align="center">
     <td>
-      <a href="https://github.com/MuriloRibeiro01/GerenciadorDeTarefas">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuriloRibeiro01&repo=GerenciadorDeTarefas&theme=dracula" alt="Card do Repositório Gerenciador de Tarefas" style="width: 100%;">
+      <a href="https://github.com/MuriloRibeiro01/TorqueSync">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuriloRibeiro01&repo=TorqueSync&theme=dracula" alt="Card do Repositório TorqueSync" style="width: 100%;">
       </a>
     </td>
     <td>
