@@ -33,13 +33,4 @@ Este GitHub é meu portfólio digital, onde documento minha jornada de aprendiza
       </a>
     </td>
   </tr>
-
-  <tr align="center">
-    <td>
-      <a href="https://github.com/MuriloRibeiro01/SistemaProcessamentoTransacoes">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuriloRibeiro01&repo=SistemaProcessamentoTransacoes&theme=dracula" alt="Card do Repositório Sistema de Processamento de Transações" style="width: 100%;">
-      </a>
-    </td>
-  </tr>
-
 </table>
