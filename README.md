@@ -34,9 +34,7 @@ Este GitHub é o meu diário de bordo digital, onde documento cada passo da minh
 
   <tr align="center">
     <td>
-      <!-- O link de destino (href) foi atualizado -->
       <a href="https://github.com/MuriloRibeiro01/TorqueSync-Laravel">
-        <!-- O nome do repositório (repo=) na URL da imagem também foi atualizado -->
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuriloRibeiro01&repo=TorqueSync-Laravel&theme=dracula" alt="Card do Repositório TorqueSync" style="width: 100%;">
       </a>
     </td>
