@@ -36,12 +36,6 @@ Este GitHub é meu portfólio digital, onde documento minha jornada de aprendiza
 
   <tr align="center">
     <td>
-      <a href="https://github.com/MuriloRibeiro01/TorqueSync-Laravel">
-        <!-- CORREÇÃO FEITA AQUI: O alt text agora bate com o nome do repo -->
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuriloRibeiro01&repo=TorqueSync-Laravel&theme=dracula" alt="Card do Repositório TorqueSync-Laravel" style="width: 100%;">
-      </a>
-    </td>
-    <td>
       <a href="https://github.com/MuriloRibeiro01/SistemaProcessamentoTransacoes">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuriloRibeiro01&repo=SistemaProcessamentoTransacoes&theme=dracula" alt="Card do Repositório Sistema de Processamento de Transações" style="width: 100%;">
       </a>
