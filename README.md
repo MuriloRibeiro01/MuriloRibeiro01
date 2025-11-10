@@ -6,7 +6,7 @@ Opa, tudo certo? Me chamo Murilo! 👨‍💻
 
 Sou um desenvolvedor focado em soluções full-stack, com experiência prática na criação de sistemas, colaboração em equipe (utilizando Git/GitLab) e gestão de versionamento de código. Atualmente, atuo na Defensoria Pública da União (DPU), onde aplico e expando meus conhecimentos diariamente.
 
-Minhas principais áreas de estudo no momento são Java e Cibersegurança, e estou sempre buscando formas de aplicar tecnologias como Python para resolver problemas complexos.
+Meu principal foco no momento é desenvolver projetos pessoais que solucionam problemas reais, sempre me atualizando sobre novas tecnologias e priorizando boas práticas.
 
 Este GitHub é meu portfólio digital, onde documento minha jornada de aprendizado e os projetos que desenvolvo. Adoro aprender, compartilhar e me conectar!
 
