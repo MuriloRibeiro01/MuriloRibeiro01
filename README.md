@@ -1,36 +1,19 @@
-E aí! 👋
+# Murilo Ribeiro da Silveira 👨‍💻
 
-Sobre mim
+Desenvolvedor **Full Stack**, focado em criar soluções práticas, bem estruturadas e alinhadas a boas práticas de engenharia de software.
 
-Opa, tudo certo? Me chamo Murilo! 👨‍💻
+Atualmente atuo na **Defensoria Pública da União (DPU)**, onde trabalho no desenvolvimento e manutenção de sistemas, colaboração em equipe utilizando **Git/GitLab** e versionamento de código em ambientes reais de produção.
 
-Sou um desenvolvedor focado em soluções full-stack, com experiência prática na criação de sistemas, colaboração em equipe (utilizando Git/GitLab) e gestão de versionamento de código. Atualmente, atuo na Defensoria Pública da União (DPU), onde aplico e expando meus conhecimentos diariamente.
+Tenho interesse especial em:
+- Desenvolvimento de aplicações web completas
+- Código limpo, manutenível e escalável
+- Solução de problemas reais através da tecnologia
 
-Meu principal foco no momento é desenvolver projetos pessoais que solucionam problemas reais, sempre me atualizando sobre novas tecnologias e priorizando boas práticas.
+Este GitHub funciona como meu **portfólio técnico**, reunindo projetos pessoais e experimentos que refletem minha evolução como desenvolvedor.
 
-Este GitHub é meu portfólio digital, onde documento minha jornada de aprendizado e os projetos que desenvolvo. Adoro aprender, compartilhar e me conectar!
+📫 **Contato**
+- LinkedIn: www.linkedin.com/in/murilo-ribeiro-da-silveira-255774264
+- Email: murilo.ribeiro2709@gmail.com
 
-🚀 Vamos trocar uma ideia?
-
- | 
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=MuriloRibeiro01&theme=dracula&hide_border=true&locale=pt_BR" alt="GitHub Streak de Murilo">
-  </a>
-</p>
-
-<table align="center" style="width: 80%;">
-  <tr align="center">
-    <td width="50%">
-      <a href="https://github.com/MuriloRibeiro01">
-        <img src="https://github-readme-stats.vercel.app/api?username=MuriloRibeiro01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Murilo" style="width: 100%;">
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/MuriloRibeiro01">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloRibeiro01&layout=compact&langs_count=7&theme=dracula" alt="Top Linguagens de Murilo" style="width: 100%;">
-      </a>
-    </td>
-  </tr>
-</table>
+---
+💡 *Sempre aprendendo, sempre melhorando.*
